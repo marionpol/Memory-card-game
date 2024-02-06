@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <title>Memory card game</title>
+</head>
+<body>
+    
+    <div class="container">
+        <input type="checkbox" id="dark-mode" class="input" />
+        <label for="dark-mode" class="label">
+            <div class="circle"></div>
+        </label>
+
+        <div class="content">   
+            <h1>Memory card game</h1>
+        </div> 
+    </div>
+
+    <div class="grid-container"></div>
+    <div class="text">
+        <p>Score: <span class="score"></span></p>
+        <div class="actions">
+            <button onclick="restart()">Restart</button>
+        </div>    
+        <p>Time left:<br> <span class="timer">0:45</span></p>
+    </div>
+    
+    <script src="script.js"></script>
+
+</body>
+</html>

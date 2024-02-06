@@ -1,0 +1,39 @@
+[
+    {
+        "image": "images/bow.png",
+        "name": "bow"
+    },
+    {
+        "image": "images/gift.png",
+        "name": "gift"
+    },
+    {
+        "image": "images/bag.png",
+        "name": "bag"
+    },
+    {
+        "image": "images/bells.png",
+        "name": "bells"
+    },
+    {
+        "image": "images/bread.png",
+        "name": "gingerbread"
+    },
+    {
+        "image": "images/candy.png",
+        "name": "candy"
+    },
+    {
+        "image": "images/hat.png",
+        "name": "hat"
+    },
+    {
+        "image": "images/sock.png",
+        "name": "sock"
+    },
+    {
+        "image": "images/wrath.png",
+        "name": "wrath"
+    }
+
+]
